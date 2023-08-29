@@ -28,8 +28,8 @@
     "php": ">=8.2",
     "ramsey/uuid": "^4.7",
     "webmozart/assert": "^1.11",
-    "wwwision/dcb-eventstore": "@dev",
-    "wwwision/dcb-eventstore-doctrine": "@dev",
+    "wwwision/dcb-eventstore": "^3",
+    "wwwision/dcb-eventstore-doctrine": "^3",
     "psr/clock": "^1"
   },
   "require-dev": {
